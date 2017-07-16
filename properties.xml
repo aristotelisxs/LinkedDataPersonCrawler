@@ -1,0 +1,5 @@
+<LinkedDataPersonCrawler>
+	<recursion_limit>15</recursion_limit>
+	<max_duration>1</max_duration>
+	<max_people_to_find>300</max_people_to_find>
+</LinkedDataPersonCrawler>
